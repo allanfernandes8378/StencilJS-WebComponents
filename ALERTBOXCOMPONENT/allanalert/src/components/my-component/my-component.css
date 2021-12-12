@@ -1,0 +1,59 @@
+div {
+  display: block;
+  background-color: #DFE4E9;
+  font-size: 14px;
+  padding: 20px 40px;
+  font-family: sans-serif;
+  margin: 15px 10px;
+}
+div.square {
+  display: block;
+  background-color: #DFE4E9;
+  font-size: 14px;
+  padding: 20px 40px;
+  font-family:sans-serif ;
+  display: block;
+  position: relative;
+  
+}
+div.rounded {
+  display: block;
+  background-color: #DFE4E9;
+  font-size: 14px;
+  padding: 20px 40px;
+  border-radius: 10px;
+  font-family: sans-serif;
+  display: block;
+  position: relative;
+ 
+}
+h4{
+  font-family: sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+h4.title{
+  font-family: sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+h4.notitle{
+  display: none;
+}
+h4.centrealigntitle{
+  font-family: sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  text-align: center;
+}
+img.iconpresent{
+  width : 30px; 
+  height : 30px;
+  margin:-35px 10px 10px 0px;
+}
+img.iconabsent{
+  width : 30px; 
+  height : 30px;
+  margin:-35px 10px 10px 0px;
+  visibility: hidden;
+}
